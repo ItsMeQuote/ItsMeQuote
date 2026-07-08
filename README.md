@@ -5,9 +5,15 @@
 
 ---
 
-### 💬 Связаться со мной
+### Связаться со мной
 
 > [!TIP]
 > Лучший способ написать мне — через социальные сети ниже.
 
 [✈️ Мой Telegram](https://t.me/ItsMeQuote) / [🕹️ Мой Discord](https://discord.com/users/1370100416473464884)
+
+---
+
+### Мои любимые утилиты
+* **[TgWsProxy](https://github.com/Flowseal/tg-ws-proxy)** — локальная утилита для обхода региональных ограничений в Telegram.
+* **[Zapret](https://github.com/Flowseal/zapret-discord-youtube)** — локальная утилита для обхода региональных ограничений в Discord и YouTube.
