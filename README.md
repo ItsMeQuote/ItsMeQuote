@@ -11,8 +11,3 @@
 > Лучший способ написать мне — через социальные сети ниже.
 
 [✈️ Мой Telegram](https://t.me/ItsMeQuote) / [🕹️ Мой Discord](https://discord.com/users/1370100416473464884)
-
----
-<p align="center">
-  <img src="https://komarev.com" alt="Счетчик просмотров" />
-</p>
