@@ -8,20 +8,21 @@
 ### Связаться со мной
 
 > [!TIP]
-> Лучший способ написать мне — через социальные сети ниже.
+> Лучший способ написать мне — через социальные сети ниже. *Также можете использовать [эту ссылку](https://itsmequote.github.io/quote-connect/)*
 
 [✈️ Мой Telegram](https://t.me/ItsMeQuote) / [🕹️ Мой Discord](https://discord.com/users/1370100416473464884)
 
 ---
 
 ### Мои любимые утилиты
-* **[TgWsProxy](https://github.com/Flowseal/tg-ws-proxy)** — локальная утилита для обхода региональных ограничений в Telegram.
-* **[Zapret](https://github.com/Flowseal/zapret-discord-youtube)** — локальная утилита для обхода региональных ограничений в Discord и YouTube.
+* **[TgWsProxy](https://github.com/Flowseal/tg-ws-proxy)** — локальная утилита для обхода региональных ограничений в Telegram. Удалена с GitHub.
+* **[Zapret](https://github.com/Flowseal/zapret-discord-youtube)** — локальная утилита для обхода региональных ограничений в Discord и YouTube. Удалена с GitHub.
 
 ---
 
-### Проекты
+### Репозитории
 * **[Камень, ножницы, бумага](https://github.com/ItsMeQuote/rock-paper-scissors)** — повторение культовой игры «Камень, ножницы, бумага» на Python.
+* **[Quote Connect](https://github.com/ItsMeQuote/quote-connect)** — код [сайта-визитки](https://itsmequote.github.io/quote-connect/) с ссылками на соц-сети.
 
 ---
 
@@ -29,7 +30,7 @@
 * **Python** — мой основной язык.
 * **Markdown** — классика, без которой никуда.
 * **Викиразметка (MediaWiki)** — увлекаюсь редактированием статей на платформах, использующих MediaWiki (например, Википедия, Fandom).
-* **HTML** — иногда приходится его использовать.
-* **CSS** — иногда приходится его использовать вместо встроенных HTML-стилей.
-* **JavaScript** — однажды попробовал, не понравилось.
+* **HTML** — иногда создаю вебсайты.
+* **CSS** — вместо встроенных HTML-стилей, а также для создания эффектов, недоступных для HTML.
+* **JavaScript** — мозг вебсайтов.
 * **JSON** — буквально отдельный язык из Python-словарей.
