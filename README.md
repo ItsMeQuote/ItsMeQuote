@@ -15,8 +15,8 @@
 ---
 
 ### Мои любимые утилиты
-* **[TgWsProxy](https://github.com/Flowseal/tg-ws-proxy)** — локальная утилита для обхода региональных ограничений в Telegram. Удалена с GitHub.
-* **[Zapret](https://github.com/Flowseal/zapret-discord-youtube)** — локальная утилита для обхода региональных ограничений в Discord и YouTube. Удалена с GitHub.
+* **[TgWsProxy](https://github.com/Flowseal/tg-ws-proxy)** — локальная утилита для обхода региональных ограничений в Telegram.
+* **[Zapret](https://github.com/Flowseal/zapret-discord-youtube)** — локальная утилита для обхода региональных ограничений в Discord и YouTube.
 
 ---
 
