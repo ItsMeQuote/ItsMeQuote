@@ -22,7 +22,8 @@
 
 ### Репозитории
 * **[Камень, ножницы, бумага](https://github.com/ItsMeQuote/rock-paper-scissors)** — повторение культовой игры «Камень, ножницы, бумага» на Python.
-* **[Quote Connect](https://github.com/ItsMeQuote/quote-connect)** — код [сайта-визитки](https://itsmequote.github.io/quote-connect/) с ссылками на соц-сети.
+* **[Камень, ножницы, бумага — браузер](https://github.com/ItsMeQuote/rps-browser)** — код [сайта](https://itsmequote.github.io/rps-browser)-повторения культовой игры «Камень, ножницы, бумага» на HTML, CSS и JS.
+* **[Quote Connect](https://github.com/ItsMeQuote/quote-connect)** — код [сайта-визитки](https://itsmequote.github.io/quote-connect/) с ссылками на соц-сети (HTML, CSS, JS).
 
 ---
 
