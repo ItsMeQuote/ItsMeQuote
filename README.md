@@ -1,39 +1,42 @@
-# <center>ItsMeQuote</center>
-![Python logo](https://static.wikia.nocookie.net/pyth/images/e/e4/Python.png/revision/latest?cb=20260626201352&path-prefix=ru)
+<!-- Баннер -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20ItsMeQuote%20&textBg=true&fontColor=fff&fontSize=65&fontAlign=50&animation=fadeIn&strokeWidth=0.5&section=header" width="100%" alt="Header" />
 
-> [!NOTE]
-> **Кто я:** Обычный пользователь, исследователь полезного софта и технологий. Создаю свои проекты только ради проверки знаний языков программирования.
+<div align="center">
+      <a href="https://readme-typing-svg.demolab.com">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vcenter=true&width=600&lines=%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%D1%81%D0%BE%D1%84%D1%82%D0%B0+%D0%B8+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9;Python+|+JavaScript+|+HTML%2FCSS+|+JSON;ItsMeQuote" alt="Typing SVG" />
+      </a>
+  </div>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ItsMeQuote&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
+
+<br>
+
+<!-- Ссылки -->
+<div align="center">
+  <a href="https://t.me/ItsMeQuote" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1370100416473464884" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://itsmequote.github.io/quote-connect/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 ---
 
-### Связаться со мной
+<!-- ABOUT ME SECTION -->
+<h3 align="center">⚡ Обо мне</h3>
 
-> [!TIP]
-> Лучший способ написать мне — через социальные сети ниже. *Также можете использовать [эту ссылку](https://itsmequote.github.io/quote-connect/)*
-
-[✈️ Мой Telegram](https://t.me/ItsMeQuote) / [🕹️ Мой Discord](https://discord.com/users/1370100416473464884)
-
----
-
-### Мои любимые утилиты
-* **[TgWsProxy](https://github.com/Flowseal/tg-ws-proxy)** — локальная утилита для обхода региональных ограничений в Telegram.
-* **[Zapret](https://github.com/Flowseal/zapret-discord-youtube)** — локальная утилита для обхода региональных ограничений в Discord и YouTube.
-
----
-
-### Репозитории
-![Static Badge](https://img.shields.io/badge/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C%2C_%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0-gray) ![Static Badge](https://img.shields.io/badge/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C%2C_%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-blue) ![Static Badge](https://img.shields.io/badge/Quote-Connect-orange) 
-* **[Камень, ножницы, бумага](https://github.com/ItsMeQuote/rock-paper-scissors)** — повторение культовой игры «Камень, ножницы, бумага» на Python.
-* **[Камень, ножницы, бумага — браузер](https://github.com/ItsMeQuote/rps-browser)** — код [сайта](https://itsmequote.github.io/rps-browser)-повторения культовой игры «Камень, ножницы, бумага» на HTML, CSS и JS.
-* **[Quote Connect](https://github.com/ItsMeQuote/quote-connect)** — код [сайта-визитки](https://itsmequote.github.io/quote-connect/) с ссылками на соц-сети (HTML, CSS, JS).
-
----
-
-### Языки программирования и разметки
-* **Python** — мой основной язык.
-* **Markdown** — классика, без которой никуда.
-* **Викиразметка (MediaWiki)** — увлекаюсь редактированием статей на платформах, использующих MediaWiki (например, Википедия, Fandom).
-* **HTML** — иногда создаю вебстраницы.
-* **CSS** — вместо встроенных HTML-стилей, а также для создания эффектов, недоступных для HTML.
-* **JavaScript** — мозг вебсайтов.
-* **JSON** — буквально отдельный язык из Python-словарей.
+```text
+► Исследую полезный софт, конфигурации и технологии.
+► Разрабатываю локальные и веб-проекты для проверки и закрепления знаний.
+► Разбираю чужой код для понимания архитектуры и логики решений.
+```
